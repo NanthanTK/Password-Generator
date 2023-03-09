@@ -11,6 +11,7 @@ Create a random password based on the following user inputs.
 ## Installation
 
 click on the link below to load the password generator and follow prompts.
+https://nanthantk.github.io/Password-Generator/
 
 
 ## visuals
